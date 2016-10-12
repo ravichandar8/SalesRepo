@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("Test Message 1");
 		
 		System.out.println("test Message 2");
+		
+		System.out.println("Change 1");
 	}
 
 }
