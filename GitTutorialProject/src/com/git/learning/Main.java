@@ -7,8 +7,8 @@ public class Main {
 		displayGreeting();
 		data.display();
 		System.out.println("from git");
-	}
-	
+		System.out.println("test12345");
+	}	
 	private static void displayGreeting(){
 		System.out.println("Test Message 1");
 		
