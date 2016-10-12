@@ -6,7 +6,7 @@ public class Main {
 		SalesData data = new SalesData();
 		displayGreeting();
 		data.display();
-		System.out.println("from git");
+		System.out.println("from git12324");
 		System.out.println("test12345");
 	}	
 	private static void displayGreeting(){
