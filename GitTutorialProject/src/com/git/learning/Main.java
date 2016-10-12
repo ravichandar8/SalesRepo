@@ -8,6 +8,8 @@ public class Main {
 		data.display();
 		System.out.println("from git12324");
 		System.out.println("test12345");
+		
+		System.out.println("Sending to new branch1234");
 	}	
 	private static void displayGreeting(){
 		System.out.println("Test Message 1");
